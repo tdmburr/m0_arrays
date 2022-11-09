@@ -12,3 +12,5 @@ var breathing = true
 var actions = [working, sitting, standing, breathing]
 //.pop will remove the final element in the actions array and provide the boolean response to the question. Breathing? True.
 console.log(actions.pop())
+
+// An index position is denoted by the order or position in an array. Such as "Ryder" under cats would be index position 0. Ciipaya would be considered 2.
